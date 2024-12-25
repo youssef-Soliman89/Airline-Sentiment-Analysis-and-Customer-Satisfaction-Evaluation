@@ -26,10 +26,10 @@ The airline industry is highly competitive, and customer satisfaction plays a cr
   - Sentiment Analysis: `vaderSentiment`
  
 ## Results and Insights
-** Sentiment Analysis:
+-**Sentiment Analysis:
 VADER achieved an accuracy of ~65%, but struggled with mixed sentiments.
 LSTM achieved an accuracy of ~92.15%, significantly improving sentiment classification.
-** Key Findings:
+-** Key Findings:
 "Value for Money" is the most significant factor influencing overall ratings.
 Verified reviews are more reliable and consistent than unverified ones.
 Economy class feedback constitutes 82.6% of all reviews, highlighting a critical area for improvement.
